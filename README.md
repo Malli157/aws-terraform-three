@@ -28,7 +28,7 @@ Currently, RDS is set multi_az = false. To enable multi_az, set value to true<br
 compute.tf<br>
 This file sets up the compute resources for the web and app tiers, including launch configurations, auto scaling groups, application load balancers, target groups, and listeners.
 
-**Usage**<br>
+**Usage **<br>
 Clone this repository:<br>
 git clone https://github.com/Malli157/aws-terraform-three.git<br>
 cd terraform-aws-three-tier<br>
